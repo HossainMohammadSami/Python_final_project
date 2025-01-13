@@ -18,8 +18,8 @@ A fully functional blog application that allows users to sign up, log in, create
 - User Profile Management
 
 ### Credentials
-- Username: saikat
-- Password: saikat
+- Username: sami
+- Password: sami
 
 ### Screenshots
 - **Figure 1:** User Login
@@ -42,7 +42,7 @@ A fully functional blog application that allows users to sign up, log in, create
 ### Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mirzasaikatahmmed/Python-Django-Final-Project.git
+   git clone https://github.com/HossainMohammadSami/Python-Django-Final-Project.git
    ```
 2. Navigate to the project directory:
    ```bash
